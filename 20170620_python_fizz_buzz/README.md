@@ -7,11 +7,11 @@
 
 ## :)
 
-- 
+- primeiro dojo 
 
 ## :(
 
-  - 
+  - setup foi muito lento
 
 
 ## Participantes
