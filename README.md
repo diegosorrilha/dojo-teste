@@ -5,7 +5,8 @@ Coding Dojo da Comunidade WTTD
 
 ## Como brincar?
 
-1. Faça o clone desse repositório 
+1. Faça o clone desse repositório
+ 
 `git clone git@github.com:diegosorrilha/wttd-dojo.git`
 
 2. Crie um virtualenv com Python 3.5
